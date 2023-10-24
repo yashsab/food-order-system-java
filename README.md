@@ -17,7 +17,7 @@ Ensure you have Java Development Kit (JDK) installed on your system.
 ### Installation
 
 1.Clone this repository to your local machine using the following command:
-   git clone https://github.com/yashsab/food-order-system-java.git .
+   git clone https://github.com/yashsab/food-order-system-java.git
    
 2. Navigate to the project directory on your terminal or cmd (depends on your system):
       cd food-order-system-java.
